@@ -5,6 +5,15 @@
 > 📑 **최종 발표 자료**: [PDF](presentation/team01_prj07_prj08.pdf) · [Google Slides](https://docs.google.com/presentation/d/1lfYxkO_q-nYkV291dwh8UB7X9kVs7-QH/preview) · [Figma](https://www.figma.com/design/1B9QcM36Ne1j5sTHXcOAAV/1%EC%A1%B0?node-id=0-1)
 > ※ 회사 데이터(NDA) 보호를 위해 원본 사진 · 라벨 · 모델은 Git에 올리지 않았고, 모든 사진은 blur 처리했습니다.
 
+## 내가 맡은 일 · 김하민
+
+> 5인 팀 프로젝트를 개인 포트폴리오용으로 fork한 저장소입니다. 아래 숫자는 **팀 결과**이고, 제 역할은 이 표와 같습니다.
+
+| 단계 | 역할 | 한 일 |
+|---|---|---|
+| ① 라벨 검수 | **Docs / Guide** | 검수 프로그램 **v1.0 초안** · **Class · BBox 기준서** 작성 · `RAW → FINAL 직행 금지` 규칙 · **1차 검수 250장** · 11개 산출물 최종 점검 |
+| ② 검출 모델 | **Inference / Document** | 촬영 세션 · **Leakage 분석(04)** · **세션 단위 Split 배정(05)** · Dataset 요약(07) · **branch 오검출 확인** · Auto Label 검수 · README 초안 |
+
 ## 한눈에 보기
 
 ```mermaid
@@ -40,7 +49,7 @@ flowchart LR
 | 최용훈 [`@yonghoonchoi88`](https://github.com/yonghoonchoi88) | PM / Integrator | PM / Integrator |
 | 박건 [`@howolcat`](https://github.com/howolcat) | Program / Validation | Evaluation / Failure · Experiment |
 | 심준형 [`@simpson92`](https://github.com/simpson92) | QA / Test | Data / QA · Training |
-| 김하민 [`@hxxdxm`](https://github.com/hxxdxm) | Docs / Guide | Inference / Document |
+| **김하민** [`@hxxdxm`](https://github.com/hxxdxm) ⭐ | **Docs / Guide** | **Inference / Document** |
 | 이승훈 [`@lee26060715`](https://github.com/lee26060715) | Feature / Record | — |
 
 > 자세한 작업 내용은 각 프로젝트 README의 **팀** 표를 참고합니다.
